@@ -1,7 +1,7 @@
 # Awesome Joke
 
-## Joke Ka Pitara
+## Jokes Ka Pitara
 
-## `Live Demo `
+## [`Live Demo `](https://satyamkumar420.github.io/Best-Joke/)
 
-[![Best Joke Image ](https://github.com/satyamkumar420/Best-Joke/blob/main/Best-Joke-Image.png)](https://satyamkumar420.github.io/Portfolio/)
+[![Best Joke Image ](https://github.com/satyamkumar420/Best-Joke/blob/main/Best-Joke-Image.png)](https://satyamkumar420.github.io/Best-Joke/)
